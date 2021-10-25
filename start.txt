@@ -1,3 +1,5 @@
 Test Git Quick Start demo
 
 Text added in VSC
+
+Text added in Vsc Lubuntu
